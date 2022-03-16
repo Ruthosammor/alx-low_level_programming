@@ -1,1 +1,18 @@
-using c programming for function nested loops
+#include "main.h"
+
+/**
+* print_alphabet - print alphabet
+*
+* Returb: void
+*/
+void print_alphabet(void)
+{
+	char letter = 'a';
+
+	while (letter <= 'z')
+	{
+		_putchar(letter);
+		letter++;
+	}
+	_putchar('\n');
+}
