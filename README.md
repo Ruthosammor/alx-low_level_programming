@@ -1,1 +1,1 @@
-first readme
+pointers arrays
