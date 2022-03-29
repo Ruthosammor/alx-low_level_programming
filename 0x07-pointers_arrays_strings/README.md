@@ -1,1 +1,1 @@
-first readme
+More pointers and Array
